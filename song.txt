@@ -4,11 +4,5 @@ hello!
 <<<<<<< HEAD
 attack!
 =======
-
-123
-435
-
-frog
-
-dog
+zdrasteeee~!
 >>>>>>> ddd842627ab93335aea5c160d79550c57a13611f
