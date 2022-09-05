@@ -1,8 +1,3 @@
 kuku
 standing strong
-hello!
-<<<<<<< HEAD
-attack!
-=======
-zdrasteeee~!
->>>>>>> ddd842627ab93335aea5c160d79550c57a13611f
+sdadadad
