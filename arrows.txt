@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 restart
 baby
 today
-=======
-<<<<<<< HEAD
+
 The ship
 as a day
-=======
+
 one thousand
 fill the sky
->>>>>>> main
->>>>>>> feature
+
