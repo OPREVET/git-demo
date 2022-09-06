@@ -1,11 +1,3 @@
 kuku
 standing strong
-
-attack
-
-<<<<<<< HEAD
-content
-=======
-for tag only
-eeeeee boy
->>>>>>> 625c5d3194bb1da0ecd1f07896fce254933197a5
+eeeeboy
